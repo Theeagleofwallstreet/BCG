@@ -30,6 +30,8 @@ The code for this project includes data cleaning, exploratory data analysis, and
 
 The best-performing model was a random forest classifier with an AUC-ROC score of 0.85. This model was used to predict customer churn probabilities, and the results were used to identify the top 10% of customers most likely to churn. A retention campaign was launched targeting these high-risk customers, resulting in a 20% decrease in churn rate over the following quarter.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+
+##License:
+
+This dataset is available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
