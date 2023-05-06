@@ -1,5 +1,5 @@
 # BCG  
-Sure, here's an example README file for the Power Co dataset:
+
 
 # Power Co Customer Churn Prediction
 
